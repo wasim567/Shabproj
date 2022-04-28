@@ -7,6 +7,10 @@ public class ThirdClass {
  System.out.println("Third1");
  System.out.println("Third2");
  System.out.println("Third3");
+ 
+ System.out.println("Third4");
+ System.out.println("Third5");
+ 
 	}
 
 }
