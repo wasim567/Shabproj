@@ -13,6 +13,11 @@ public class Firstclass {
           System.out.println("Hello5");
           System.out.println("Hello6");
           
+
+          System.out.println("Hello7");
+          System.out.println("Hello8");
+          
+          
 	}
 
 }
